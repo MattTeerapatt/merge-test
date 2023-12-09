@@ -2,7 +2,7 @@
 ```npm install```
 
 # Testing
-```npm test```  for unit testing
+```npm test```  for using unit testing (run)
 
 
 
